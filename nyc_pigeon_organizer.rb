@@ -7,6 +7,7 @@ data.each do |key, value|
     key.each do |value, name|
  binding.pry
 
+end
  end
 new_hash
 end
